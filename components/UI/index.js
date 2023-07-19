@@ -8,6 +8,7 @@ import IconLink from "./Links/IconLink";
 import TextLink from "./Links/TextLink";
 import Section from "./Section/Section";
 import SectionHeader from "./Section/SectionHeader";
+import ScrollToTopButton from "../basic/ScrollToTopButton";
 
 export {
   Button,
@@ -20,4 +21,5 @@ export {
   TextLink,
   Section,
   SectionHeader,
+  ScrollToTopButton,
 };
